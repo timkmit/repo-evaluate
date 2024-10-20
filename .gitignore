@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+
+# Model file
+model.pkl
+
+# Repository data
+repo_data.csv
+
+# Environment variables
+.env
